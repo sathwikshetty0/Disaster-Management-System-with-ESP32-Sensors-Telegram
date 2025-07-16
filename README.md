@@ -1,10 +1,18 @@
+
+
 # 🌐 Disaster Management & Prediction System using ESP32
 
 A real-time embedded system designed to **monitor environmental parameters** and **predict disasters** like floods or earthquakes using live sensor data, weather API integration, and automated Telegram alerts. Built with **ESP32**, this project also features a **local web dashboard** for real-time data visualization.
 
 ---
 
+## 📸 Project Demo
 
+> _Add a screenshot or YouTube link here for better visualization_  
+> Example:  
+> [![Demo Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://youtu.be/YOUR_VIDEO_ID)
+
+---
 
 ## 📦 Table of Contents
 
@@ -19,6 +27,7 @@ A real-time embedded system designed to **monitor environmental parameters** and
 - [⚙️ Configuration](#️-configuration)
 - [🛠️ Troubleshooting](#️-troubleshooting)
 - [👤 Author](#-author)
+- [📜 License](#-license)
 
 ---
 
@@ -169,3 +178,39 @@ const char* chatID = "yourChatID";
 
 const char* city = "yourCity";
 const char* apiKey = "yourAPIKey";
+````
+
+---
+
+## 🛠️ Troubleshooting
+
+| Problem                    | Solution                                              |
+| -------------------------- | ----------------------------------------------------- |
+| Webpage not loading        | Check IP in Serial Monitor, ensure connected to Wi-Fi |
+| Telegram not working       | Double-check token, chat ID, and API permissions      |
+| Weather not fetching       | Verify OpenWeatherMap key & city name                 |
+| Sensor values are `nan`    | Check wiring and sensor power                         |
+| Flood warning always shown | Adjust thresholds based on local conditions           |
+
+---
+
+## 👤 Author
+
+**Sathwik Shetty N**
+
+* [GitHub](https://github.com/sathwikshetty0)
+* [LinkedIn](https://www.linkedin.com/in/sathwikshettyn)
+* Email: [sathwikshettyn0@gmail.com](mailto:sathwikshettyn0@gmail.com)
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License** – use freely, just give credit 😊
+
+```
+
+---
+
+✅ Let me know if you'd like a Fritzing circuit diagram, code documentation (`.ino` structure), or a one-page PDF for project presentation!
+```
