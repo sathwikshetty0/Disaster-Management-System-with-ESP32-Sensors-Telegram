@@ -8,9 +8,8 @@ A real-time embedded system designed to **monitor environmental parameters** and
 
 ## 📸 Project Demo
 
-> _Add a screenshot or YouTube link here for better visualization_  
 > Example:  
-> [![Demo Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://youtu.be/YOUR_VIDEO_ID)
+<img width="349" height="425" alt="image" src="https://github.com/user-attachments/assets/09537af0-a3b1-42f8-b8b9-85ef0dfc7fcb" />
 
 ---
 
