@@ -4,13 +4,7 @@ A real-time embedded system designed to **monitor environmental parameters** and
 
 ---
 
-## 📸 Project Demo
 
-> _Add a screenshot or YouTube link here for better visualization_  
-> Example:  
-> [![Demo Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://youtu.be/YOUR_VIDEO_ID)
-
----
 
 ## 📦 Table of Contents
 
@@ -25,7 +19,6 @@ A real-time embedded system designed to **monitor environmental parameters** and
 - [⚙️ Configuration](#️-configuration)
 - [🛠️ Troubleshooting](#️-troubleshooting)
 - [👤 Author](#-author)
-- [📜 License](#-license)
 
 ---
 
